@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">W_Start</string>
+    <string name="wechat_unavailable">无法打开微信，请确认已在当前用户下安装并启用微信。</string>
+</resources>
